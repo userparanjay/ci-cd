@@ -1,1 +1,1 @@
-console.log("hello ci-cd v2"
+console.log("hello ci-cd v2")
